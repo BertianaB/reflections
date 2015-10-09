@@ -1,0 +1,6 @@
+----------------------------------------------------------------
+What happens when you initialize a repository? Why do you need to do it?
+
+git starts tracking my files. i need to do it so i can start saving different commits.
+
+
