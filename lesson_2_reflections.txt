@@ -3,4 +3,10 @@ What happens when you initialize a repository? Why do you need to do it?
 
 git starts tracking my files. i need to do it so i can start saving different commits.
 
+----------------------------------------------------------------
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area != working directory: You can have files in working direcory you don't want to add to your commit, so you don't include them in the staging area.
+Staging area != repository: You can add files to the staging area even if it is not a right time to do a commit. you can add all the files you want to the staging area and then commit them together.
+
 
