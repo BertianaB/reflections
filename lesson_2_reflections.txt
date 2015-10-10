@@ -21,3 +21,13 @@ I would use branches when i have something already working but i want to try som
 I have a master branch that is qualitative where everything works, then a develop branch when i am actually working on the project, then some experimental branches. If i'm bored on working on a feature I can swich.
 
 ----------------------------------------------------------------
+How do the diagrams help you visualize the branch structure?
+
+They allow me to see the parent tree, so I know which commits are and aren't reachable from where. I can see which branches contains which commits.
+
+----------------------------------------------------------------
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Features add by both branches are kept.
+
+----------------------------------------------------------------
