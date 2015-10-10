@@ -4,3 +4,10 @@ When would you want to use a remote repository rather than keeping all your work
 - To have access to it from different machines
 - To have a backup
 -------------------------------------------------------------------
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork -> I want to work on something someone else created, but without it modifying their work (because i have no permission or because i don't want to)
+Clone -> I need to work on my computer on something, eg code
+Branches -> I need to try something new (maybe more than one at a time), but at the same time have a working version of my code
+
+-------------------------------------------------------------------
