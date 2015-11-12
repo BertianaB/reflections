@@ -9,6 +9,7 @@ How could having easy access to the entire history of a file make you a more eff
 I can undo mistakes without rewriting the entire code.
 
 ----------------------------------------------------------------
+change number1
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
 
 pros:	your commits are logically divided, therefor more useful
@@ -27,6 +28,7 @@ How can you use the commands git log and git diff to view the history of files?
 git log shows all the commits' ids. With diff and two commits' ids I see what changed from one commit to one other.
 
 ----------------------------------------------------------------
+change number2
 How might using version control make you more confident to make changes that could break something?
 
 I commit before and after the "at risk" change, knowing I can go back and change that again if I break something.
